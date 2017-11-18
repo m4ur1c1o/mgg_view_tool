@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MggViewTool::Renderer.copyright 'Mauricio García', 'All rights reserved'
+```
 
 ## Development
 
